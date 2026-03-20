@@ -1,4 +1,2 @@
-feature/conflict
 これはブランチで変更②
 これはメインで変更②
-main
